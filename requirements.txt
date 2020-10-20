@@ -1,10 +1,10 @@
-tensorflow==2.2.1
+tensorflow
 tensorflow-estimator
 nibabel
 timeout_decorator
 h5py
 matplotlib
-numpy==1.16.0
+numpy
 python-dateutil
-scipy==1.4.1
+scipy
 tifffile
